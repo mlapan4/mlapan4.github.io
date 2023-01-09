@@ -1,9 +1,20 @@
 # Web page development for La Pan Research LLC
 
 Author: Matt La Pan
+Copyright: La Pan Research LLC
+
+### HTML 5 Credit
 Template: HTML5up.net
 License: https://html5up.net/license
 
-## Build
+Credits:
 
-## Deploy
+	Demo Images:
+		Unsplash (unsplash.com)
+
+	Icons:
+		Font Awesome (fontawesome.io)
+
+	Other:
+		jQuery (jquery.com)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
