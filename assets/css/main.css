@@ -1986,6 +1986,10 @@ input, select, textarea {
 					background-color: #DA2713;
 				}
 
+				ul.contact li:hover a.fa-envelope {
+					background-color: #000;
+				}
+
 			ul.contact li:active {
 				top: 0;
 			}
