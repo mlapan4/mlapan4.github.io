@@ -1990,6 +1990,10 @@ input, select, textarea {
 					background-color: #000;
 				}
 
+				ul.contact li:hover a.fa-github {
+					background-color: #000;
+				}
+
 			ul.contact li:active {
 				top: 0;
 			}
